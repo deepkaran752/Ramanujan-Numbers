@@ -38,7 +38,8 @@ public class RamanujanNumbers{
         }
         if(count == 0){
             System.out.println(n + " is Ramanujan Number");
+        } else{
+            System.out.println(n + " is not a Ramanujan Number");
         }
-        
     }
 }
